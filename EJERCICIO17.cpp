@@ -6,7 +6,7 @@ pertenece a esa persona.*/
 
 using namespace std;
 
-bool ape_nomb(char x[], char y[]) {
+bool ape_nomb (char x[], char y[]) {
 
     if (strstr(x, y) != NULL) {
         
