@@ -6,7 +6,7 @@
 using namespace std;
 
 void numeros(int x){
-	int m,sp,sn;
+	int m, sp, sn;
 	int numeros[x];
 
 	sp = 0;
